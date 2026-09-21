@@ -6,6 +6,10 @@ kart fra 1887.
 
 Mac-app, på norsk, laget for min egen utforskning av nabolaget.
 
+![Damstredet i Oslo, sett i flyfotoet fra 1937](bilder/flyfoto-1937.jpg)
+
+*Damstredet i 1937. Tidsstripen øverst til høyre har 45 årganger for dette utsnittet — dra i den, eller spill dem av som en film.*
+
 [![Last ned Glugge](https://img.shields.io/badge/Last%20ned-Glugge.dmg-0a84ff?style=for-the-badge&logo=apple&logoColor=white)](https://github.com/Espenhh/glugge/releases/latest/download/Glugge.dmg)
 
 ![Siste versjon](https://img.shields.io/github/v/release/Espenhh/glugge?label=siste%20versjon&color=555)
@@ -54,6 +58,11 @@ og det eneste som lagres er hvor du var sist.
   gjelder for en tomt.
 - **Museum**: stedfestede fotografier fra norske museer (DigitaltMuseum), og
   folketellingene — hvem som bodde i huset i 1910, og oppslag tilbake til 1801.
+
+| | |
+| --- | --- |
+| ![Skråfoto av Damstredet](bilder/skrafoto.jpg) | ![Reguleringsplanen for Damstredet](bilder/planinnsyn.jpg) |
+| **Skråfoto** fra Blom, her sett fra nord. Fire himmelretninger, flere årganger, og minikart som viser hvor kameraet står. | **Planinnsyn** for Oslo. Her er reguleringsplanen: adressen ligger i «Spesialområde bevaring bolig», vedtatt i 1994. |
 
 ## Installering
 
